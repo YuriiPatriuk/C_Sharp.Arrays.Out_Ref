@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Arrays_C_Sharp\Arrays_C_Sharp\bin\Debug\netcoreapp3.1\Out_Ref.exe
+C:\Users\dev\Desktop\Arrays_C_Sharp\Arrays_C_Sharp\bin\Debug\netcoreapp3.1\Out_Ref.deps.json
+C:\Users\dev\Desktop\Arrays_C_Sharp\Arrays_C_Sharp\bin\Debug\netcoreapp3.1\Out_Ref.runtimeconfig.json
+C:\Users\dev\Desktop\Arrays_C_Sharp\Arrays_C_Sharp\bin\Debug\netcoreapp3.1\Out_Ref.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Arrays_C_Sharp\Arrays_C_Sharp\bin\Debug\netcoreapp3.1\Out_Ref.dll
+C:\Users\dev\Desktop\Arrays_C_Sharp\Arrays_C_Sharp\bin\Debug\netcoreapp3.1\Out_Ref.pdb
+C:\Users\dev\Desktop\Arrays_C_Sharp\Arrays_C_Sharp\obj\Debug\netcoreapp3.1\Out_Ref.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Arrays_C_Sharp\Arrays_C_Sharp\obj\Debug\netcoreapp3.1\Out_Ref.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Arrays_C_Sharp\Arrays_C_Sharp\obj\Debug\netcoreapp3.1\Out_Ref.AssemblyInfo.cs
+C:\Users\dev\Desktop\Arrays_C_Sharp\Arrays_C_Sharp\obj\Debug\netcoreapp3.1\Out_Ref.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Arrays_C_Sharp\Arrays_C_Sharp\obj\Debug\netcoreapp3.1\Out_Ref.dll
+C:\Users\dev\Desktop\Arrays_C_Sharp\Arrays_C_Sharp\obj\Debug\netcoreapp3.1\Out_Ref.pdb
+C:\Users\dev\Desktop\Arrays_C_Sharp\Arrays_C_Sharp\obj\Debug\netcoreapp3.1\Out_Ref.genruntimeconfig.cache
